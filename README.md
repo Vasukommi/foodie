@@ -1,2 +1,2 @@
-# foodie.github.io
+# foodie
 Food delivery service
